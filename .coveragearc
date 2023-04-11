@@ -1,0 +1,5 @@
+[run]
+omit = 
+      test_*
+      *_init_.py
+      /lib/python3.*/*
